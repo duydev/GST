@@ -1,0 +1,12 @@
+D:\DuyDev\Ass03\Ass03\bin\Debug\Ass03.exe.config
+D:\DuyDev\Ass03\Ass03\bin\Debug\Ass03.exe
+D:\DuyDev\Ass03\Ass03\bin\Debug\Ass03.pdb
+D:\DuyDev\Ass03\Ass03\obj\Debug\Ass03.csprojResolveAssemblyReference.cache
+D:\DuyDev\Ass03\Ass03\obj\Debug\Ass03.exe
+D:\DuyDev\Ass03\Ass03\obj\Debug\Ass03.pdb
+E:\GST\DuyDev\Ass03\Ass03\bin\Debug\Ass03.exe.config
+E:\GST\DuyDev\Ass03\Ass03\obj\Debug\Ass03.exe
+E:\GST\DuyDev\Ass03\Ass03\obj\Debug\Ass03.pdb
+E:\GST\DuyDev\Ass03\Ass03\bin\Debug\Ass03.exe
+E:\GST\DuyDev\Ass03\Ass03\bin\Debug\Ass03.pdb
+E:\GST\DuyDev\Ass03\Ass03\obj\Debug\Ass03.csprojResolveAssemblyReference.cache

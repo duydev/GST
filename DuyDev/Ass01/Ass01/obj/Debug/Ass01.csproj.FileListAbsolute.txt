@@ -1,0 +1,12 @@
+D:\DuyDev\Ass01\Ass01\bin\Debug\Ass01.exe.config
+D:\DuyDev\Ass01\Ass01\bin\Debug\Ass01.exe
+D:\DuyDev\Ass01\Ass01\bin\Debug\Ass01.pdb
+D:\DuyDev\Ass01\Ass01\obj\Debug\Ass01.csprojResolveAssemblyReference.cache
+D:\DuyDev\Ass01\Ass01\obj\Debug\Ass01.exe
+D:\DuyDev\Ass01\Ass01\obj\Debug\Ass01.pdb
+E:\GST\DuyDev\Ass01\Ass01\bin\Debug\Ass01.exe.config
+E:\GST\DuyDev\Ass01\Ass01\obj\Debug\Ass01.exe
+E:\GST\DuyDev\Ass01\Ass01\obj\Debug\Ass01.pdb
+E:\GST\DuyDev\Ass01\Ass01\bin\Debug\Ass01.exe
+E:\GST\DuyDev\Ass01\Ass01\bin\Debug\Ass01.pdb
+E:\GST\DuyDev\Ass01\Ass01\obj\Debug\Ass01.csprojResolveAssemblyReference.cache
