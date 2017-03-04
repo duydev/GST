@@ -1,0 +1,5 @@
+E:\FPT_GST\GST\BTNB_ASSIGNMENT\Assignment02\bin\Debug\Assignment02.exe.config
+E:\FPT_GST\GST\BTNB_ASSIGNMENT\Assignment02\bin\Debug\Assignment02.exe
+E:\FPT_GST\GST\BTNB_ASSIGNMENT\Assignment02\bin\Debug\Assignment02.pdb
+E:\FPT_GST\GST\BTNB_ASSIGNMENT\Assignment02\obj\Debug\Assignment02.exe
+E:\FPT_GST\GST\BTNB_ASSIGNMENT\Assignment02\obj\Debug\Assignment02.pdb

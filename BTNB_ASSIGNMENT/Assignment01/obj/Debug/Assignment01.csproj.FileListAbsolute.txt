@@ -1,0 +1,6 @@
+E:\FPT_GST\GST\BTNB_ASSIGNMENT\Assignment01\bin\Debug\Assignment01.exe.config
+E:\FPT_GST\GST\BTNB_ASSIGNMENT\Assignment01\bin\Debug\Assignment01.exe
+E:\FPT_GST\GST\BTNB_ASSIGNMENT\Assignment01\bin\Debug\Assignment01.pdb
+E:\FPT_GST\GST\BTNB_ASSIGNMENT\Assignment01\obj\Debug\Assignment01.csprojResolveAssemblyReference.cache
+E:\FPT_GST\GST\BTNB_ASSIGNMENT\Assignment01\obj\Debug\Assignment01.exe
+E:\FPT_GST\GST\BTNB_ASSIGNMENT\Assignment01\obj\Debug\Assignment01.pdb
