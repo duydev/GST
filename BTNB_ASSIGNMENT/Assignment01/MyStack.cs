@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace Ass01
+namespace Assignment01
 {
     class MyStack<T> where T : struct
     {
@@ -58,5 +58,24 @@ namespace Ass01
             }
             return value;
         }
+
+        public override string ToString()
+        {
+            string output = "";
+            if( stackValues != null )
+            {
+                foreach (T a in stackValues)
+                {
+                    output += " " + a.ToString();
+                }
+            }
+            else
+            {
+                output = "Stack Empty!";
+            }
+
+            return output;
+        }
+
     }
 }

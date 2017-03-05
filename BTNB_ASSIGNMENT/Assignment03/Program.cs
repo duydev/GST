@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Assignment02
+namespace Assignment03
 {
     class Program
     {
@@ -20,9 +20,9 @@ namespace Assignment02
         public void drawMenu()
         {
             Console.Clear();
-            Console.WriteLine("/* PLAY CARDS */");
+            Console.WriteLine("/* LOP HOC */");
             Console.WriteLine("Function:");
-            Console.WriteLine("1. Shuffle Cards");
+            Console.WriteLine("1. In Thong Tin Hoc Vien");
             Console.WriteLine("0. Exit");
         }
 
@@ -30,7 +30,7 @@ namespace Assignment02
         {
             // Init App
             Program app = new Program();
-            Desk desk = new Desk();
+            LopHoc lopHoc = new LopHoc();
             int choose = -1;
             int? value;
             while (choose != 0)
@@ -44,9 +44,10 @@ namespace Assignment02
                         Console.WriteLine("Goodbye!");
                         break;
                     case 1:
-                        // Print Stack
-                        desk.shuffleCards();
-                        desk.showCards();
+                        lopHoc.ghepTen();
+                        lopHoc.sinhID();
+                        lopHoc.sinhDiem();
+                        lopHoc.inHocVien();
                         break;
                     default:
                         Console.WriteLine("Wrong function number. Please choose it again!");

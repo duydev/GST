@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Ass01
+namespace Assignment01
 {
     class Program
     {
@@ -30,24 +30,10 @@ namespace Ass01
             Console.WriteLine("0. Exit");
         }
 
-        public void printStack( ref MyStack<int> myStack)
+        public void printStack(MyStack<int> myStack)
         {
-            MyStack<int> temp = new MyStack<int>();
-            int? value = myStack.Pop();
-            if( value == null )
-            {
-                Console.WriteLine("Stack Empty!");
-            } else
-            {
-                while (value != null)
-                {
-                    Console.Write(" " + value);
-                    temp.Push((int)value);
-                    value = myStack.Pop();
-                }
-                myStack = temp;
-                Console.WriteLine();
-            }
+
+            Console.WriteLine( myStack.ToString() );
         }
 
 
@@ -70,12 +56,12 @@ namespace Ass01
                         break;
                     case 1:
                         // Print Stack
-                        app.printStack( ref myStack );
+                        app.printStack(myStack);
                         break;
                     case 2:
                         // Push
                         myStack.Push( app.readInt() );
-                        app.printStack(ref myStack);
+                        app.printStack(myStack);
                         break;
                     case 3:
                         // Pop
@@ -84,7 +70,7 @@ namespace Ass01
                         {
                             Console.WriteLine("Value: " + value);
                         }
-                        app.printStack(ref myStack);
+                        app.printStack(myStack);
                         break;
                     case 4:
                         // Get
@@ -93,7 +79,7 @@ namespace Ass01
                         {
                             Console.WriteLine("Value: " + value);
                         }
-                        app.printStack(ref myStack);
+                        app.printStack(myStack);
                         break;
                     default:
                         Console.WriteLine("Wrong function number. Please choose it again!");

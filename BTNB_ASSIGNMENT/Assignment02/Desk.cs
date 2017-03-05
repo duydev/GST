@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Ass02
+namespace Assignment02
 {
     class Desk
     {

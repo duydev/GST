@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Ass02
+namespace Assignment02
 {
     class Card
     {
